@@ -2,6 +2,7 @@
 def add(a, b):
     return a + b
 
+#Menambahkan Perkalian dan Pembagian
 def multiply(x, y):
     return x * y
 
